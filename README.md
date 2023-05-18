@@ -26,3 +26,4 @@ In programming, I think I've found my "paradise" because I can be everything I'v
 ![C#](https://img.shields.io/badge/-cSharp-0D1117?style=for-the-badge&logo=csharp&logoColor=239120&labelColor=0D1117)&nbsp;
 ![tailwindcss](https://img.shields.io/badge/-tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4&labelColor=0D1117)&nbsp;
 ![C#](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0D1117)&nbsp;
+![NodeJS](https://img.shields.io/badge/-NodeJS-0D1117?style=for-the-badge&logo=node.js&logoColor=3178C6&labelColor=0D1117)&nbsp;

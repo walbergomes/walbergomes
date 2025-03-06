@@ -17,7 +17,7 @@ In programming, I think I've found my "paradise" because I can be everything I'v
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Tailwindcss](https://img.shields.io/badge/-tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=#06B6D4&labelColor=0D1117)&nbsp;
 ![StyledComponents](https://img.shields.io/badge/styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=DB7093)&nbsp;
-![NodeJS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=3178C6&labelColor=0D1117)&nbsp;
+![NodeJS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&logoColor=43853D&labelColor=0D1117)&nbsp;
 
 ![Express](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;

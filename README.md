@@ -2,7 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/-@walbeeeeeer-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://www.instagram.com/walbeeeeeer/)](https://www.instagram.com/walbeeeeeer/)
 [![likedin](https://img.shields.io/badge/-Walber%20Gomes-00875f?style=flat-square&labelColor=00875f&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-gomes-224206261/)](https://www.linkedin.com/in/walber-gomes-224206261/) 
-[![Gmail Badge](https://img.shields.io/badge/-walberg.s48@gmail.com-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walberg.s48@gmail.com)](mailto:walberg.s48gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-walbergomes@proton.me-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walberg.s48@gmail.com)](mailto:walbergomes@proton.me)
 
 
 I am a lifelong learner with a passion for solving problems through programming, working as a full-stack developer to create solutions across both front-end and back-end.

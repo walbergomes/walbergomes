@@ -9,8 +9,6 @@ I am a lifelong learner with a passion for solving problems through programming,
 
 I started studying programming for a hobby, when I saw it, I had found a passion. So I dedicated myself to seeking knowledge of various topics. To organize my mind and know which course of study to follow, I decided to go to college.
 
-In programming, I think I've found my "paradise" because I can be everything I've ever dreamed of, and now, I'm working to be reality.
-
 ---
 
 ### My Skills:

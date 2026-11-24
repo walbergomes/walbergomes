@@ -5,9 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-walbergomes%40proton.me-00875f?style=flat-square&logo=proton&logoColor=white)](mailto:walbergomes@proton.me)
 
 
-I am a lifelong learner with a passion for solving problems through programming, working as a full-stack developer to create solutions across both front-end and back-end.
-
-I started studying programming for a hobby, when I saw it, I had found a passion. So I dedicated myself to seeking knowledge of various topics. To organize my mind and know which course of study to follow, I decided to go to college.
+Hey! I'm Walber, a full-stack developer who tends to get curious about how things work, often going down rabbit holes just to figure them out.
 
 ---
 

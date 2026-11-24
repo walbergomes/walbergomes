@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Whats's+up!,+I'm+Walber)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=What's+up!+I'm+Walber)](https://git.io/typing-svg)
 
 [![Instagram](https://img.shields.io/badge/-@walbeeeeeer-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://www.instagram.com/walbeeeeeer/)](https://www.instagram.com/walbeeeeeer/)
 [![likedin](https://img.shields.io/badge/-Walber%20Gomes-00875f?style=flat-square&labelColor=00875f&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-gomes-224206261/)](https://www.linkedin.com/in/walber-gomes-224206261/) 

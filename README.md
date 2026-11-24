@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=What's+up!+I'm+Walber)](https://git.io/typing-svg)
 
-[![Instagram](https://img.shields.io/badge/-@walbeeeeeer-00875f?style=flat-square&labelColor=00875f&logo=instagram&logoColor=white&link=https://www.instagram.com/walbeeeeeer/)](https://www.instagram.com/walbeeeeeer/)
-[![likedin](https://img.shields.io/badge/-Walber%20Gomes-00875f?style=flat-square&labelColor=00875f&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/walber-gomes-224206261/)](https://www.linkedin.com/in/walber-gomes-224206261/) 
-[![Gmail Badge](https://img.shields.io/badge/-walbergomes@proton.me-00875f?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walberg.s48@gmail.com)](mailto:walbergomes@proton.me)
+[![Instagram](https://img.shields.io/badge/Instagram-%40walbeeeeeer-00875f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/walbeeeeeer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Walber%20Gomes-00875f?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1VjloMy40MTR2MS41NjFoLjA0OWMuNDc2LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAxIDEgMC00LjEyNCAyLjA2MiAyLjA2MiAwIDAgMSAwIDQuMTI0ek0zLjU2IDloMy41NTR2MTEuNDUySDMuNTZ6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/walber-gomes-224206261/)
+[![Email](https://img.shields.io/badge/Email-walbergomes%40proton.me-00875f?style=flat-square&logo=proton&logoColor=white)](mailto:walbergomes@proton.me)
 
 
 I am a lifelong learner with a passion for solving problems through programming, working as a full-stack developer to create solutions across both front-end and back-end.

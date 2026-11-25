@@ -1,4 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=What's+up!+I'm+Walber)](https://git.io/typing-svg)
+<img
+  src="https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=What's+up!+I'm+Walber#gh-dark-mode-only"
+  alt="What's up! I'm Walber"
+/>
+<img
+  src="https://readme-typing-svg.herokuapp.com/?color=0D1117&size=35&center=true&vCenter=true&width=1000&lines=What's+up!+I'm+Walber#gh-light-mode-only"
+  alt="What's up! I'm Walber"
+/>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%40walbeeeeeer-00875f?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/walbeeeeeer/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Walber%20Gomes-00875f?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1VjloMy40MTR2MS41NjFoLjA0OWMuNDc2LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjIgMi4wNjIgMCAxIDEgMC00LjEyNCAyLjA2MiAyLjA2MiAwIDAgMSAwIDQuMTI0ek0zLjU2IDloMy41NTR2MTEuNDUySDMuNTZ6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/walber-gomes-224206261/)
@@ -12,12 +19,17 @@ Hey! I'm Walber, a full-stack developer who tends to get curious about how thing
 
 ### Technologies I use
 
+**Front-end**
+
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css&logoColor=1572B6)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+
+**Back-end & tools**
+
 ![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=777BB4)
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
 ![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
